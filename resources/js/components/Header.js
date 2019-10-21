@@ -49,7 +49,7 @@ const Header = ()=>{
                             </Route>
  
                             <Route exact path="/category">
-                                <Category/>
+                                <Category />
                             </Route>
                     </Switch>
               </Router>
